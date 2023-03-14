@@ -34,7 +34,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-Now create Different Components to render it over a same page. As I created 4 components Navbar, SideIndicator, Title, Widget Circle.
+Now create Different Components to render it over a same page. As I created 4 components CRUD, Form, Table.
 Now this all components are rendered on App component and app component is rendered at index which show view Live.
 
 ## Screenshots
